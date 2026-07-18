@@ -1,0 +1,9 @@
+# Dependências instaladas pelo npm
+node_modules
+
+# Pasta gerada pelo build de produção
+dist
+
+# Logs e arquivos de sistema
+npm-debug.log*
+.DS_Store
