@@ -16,6 +16,9 @@ npm run dev
 # 3. Abra o endereço exibido no terminal (geralmente http://localhost:5173)
 ```
 
+<img width="1216" height="540" alt="image" src="https://github.com/user-attachments/assets/b7184210-6f06-404c-819a-173219bb736a" />
+
+
 ## 🗂️ Conteúdo das listas
 
 | Lista | Tema | Exercícios |
